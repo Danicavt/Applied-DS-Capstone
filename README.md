@@ -1,4 +1,4 @@
-# testrepo2
+# Applied-DS-Capstone
 ##editing the file
 
-It's a  markdown file in this repository
+These notebooks belong to the final project of IBM data science program.
